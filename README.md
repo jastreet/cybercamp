@@ -1,4 +1,8 @@
 # cybercamp
+<h1>Start:</h1>
+<p>Open the VMware files, start the VM.</p>
+<p>Login as root, password: passwd</p>
+
 <h1>Tasks:</h1>
 
 <ol>
