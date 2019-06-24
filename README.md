@@ -8,5 +8,5 @@
 <ol>
   <li>What OS are you using?</li>
   <li>Are you connected to the internet?</li>
-  <li>Start the Graphical User Interface</li>
+  <li>Start the Graphical User Interface (Once it's started, left click the desktop -> FVWM Modules -> Background, to make the background more appealing)</li>
 </ol>
