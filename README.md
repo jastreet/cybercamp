@@ -11,6 +11,7 @@
   <li>Print "hello.txt" to the terminal.</li>
   <li>Start the Graphical User Interface </li>
   <li>Add 2 and 2. </li>
+  <li>Find the square root of 88496871</li>
   <li>Write a text file in the directory: /root/Documents/</li>
   <li>Install and run "htop". </li>
   <li>Run Firefox.</li>
