@@ -16,6 +16,7 @@
   <li>Run Firefox.</li>
   <li>Open <a href="https://cat-bounce.com">this page</a> in Firefox</li>
   <li>Make everything look like Windows 95 (hint: you dont have to install anything)</li>
+  <li>Change the Applications Menu at the top to <a href="https://gottcode.org/xfce4-whiskermenu-plugin/">Whisker Menu</a></li>
   <li>Enable the SLIM login manager, so you don't manually have to start the GUI.</li>
-  <li>Play the youtube video in /root/youtubevid , but only the audio within the terminal.</li>
+  <li>Play the youtube video in /root/youtubevid , but only the audio within the terminal. (hint: you shouldn't install anything)</li>
 </ol>
