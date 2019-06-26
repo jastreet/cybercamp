@@ -21,4 +21,5 @@
   <li>Enable the SLIM login manager, so you don't manually have to start the GUI.</li>
   <li>Play the youtube video in /root/youtubevid , but only the audio within the terminal. (hint: you shouldn't install anything)</li>
   <li>Connect using ssh to bandit.labs.overthewire.org on port 2220, The username is bandit0 and the password is bandit0 (for more information: https://overthewire.org/wargames/bandit/bandit0.html)</li>
+  <li>Update the ports tree, then compile and install the port 'neofetch'</li>
 </ol>
