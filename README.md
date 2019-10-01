@@ -18,6 +18,6 @@
   <li>Change the Applications Menu at the top to <a href="https://gottcode.org/xfce4-whiskermenu-plugin/">Whisker Menu</a></li>
   <li>Enable the SLIM login manager, so you don't manually have to start the GUI.</li>
   <li>Play the youtube video in /root/youtubevid , but only the audio within the terminal. (hint: you shouldn't install anything)</li>
-  <li>Connect using ssh to bandit.labs.overthewire.org on port 2220, The username is bandit0 and the password is bandit0 (for more information: https://overthewire.org/wargames/bandit/bandit0.html)</li>
+  <li>Use the <a href=http://www.slackware.com/~alien/slackbuilds>Alien Bob Repository</a> to install and run Minecraft</li>
   <li>Update the ports tree, then compile and install the port 'neofetch'</li>
 </ol>
